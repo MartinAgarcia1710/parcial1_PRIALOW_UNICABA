@@ -1,0 +1,7 @@
+colorama==0.4.6
+readchar==4.2.2
+pandas
+matplotlib
+requests
+# Para abrir analisis.ipynb en VS Code / Jupyter
+ipykernel
